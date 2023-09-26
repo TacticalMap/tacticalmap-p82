@@ -1,0 +1,35 @@
+{
+  "name": "tacticalmap-p82",
+  "id": "tacticalmap-p82",
+  "title": "Sewage drain",
+  "description": "Slums near the sewer drain, as well as a version without the city. Roofs included.",
+  "author": "Tactical Master",
+  "authors": [],
+  "url": "https://www.patreon.com/tacticalmap",
+  "flags": {},
+  "version": "1.0",
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "11",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "name": "sewage-drain",
+      "label": "Sewage drain",
+      "path": "packs/sewage-drain.db",
+      "type": "Scene",
+	  "entity": "Scene",
+      "module": "sewage-drain",
+      "private": false
+    }
+  ],
+  "system": [],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "",
+  "download": "",
+  "protected": false,
+  "coreTranslation": false
+}
